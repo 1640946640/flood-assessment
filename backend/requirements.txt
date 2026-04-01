@@ -1,0 +1,16 @@
+# 洪涝灾害评估软件依赖
+Flask
+flask-cors
+python-dotenv
+numpy
+gdal
+matplotlib
+geopandas
+rasterio
+shapely
+pandas
+jenkspy
+scikit-learn
+scipy
+tqdm 
+geopy 
